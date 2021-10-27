@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var nome = "Angelo";
+            Console.WriteLine("TESTE DE MENSAGEM");
             Console.WriteLine($"Olá Mundo: {nome}!");
         }
     }
